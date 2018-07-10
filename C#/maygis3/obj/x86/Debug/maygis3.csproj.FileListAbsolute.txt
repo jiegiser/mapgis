@@ -1,0 +1,19 @@
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\maygis3.exe.config
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.csprojResolveAssemblyReference.cache
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.Form1.resources
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.Properties.Resources.resources
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.csproj.GenerateResource.Cache
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\maygis3.exe
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\maygis3.pdb
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoDataBase.dll
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoMap.dll
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GISControl.dll
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoObjects.dll
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoDataBase.xml
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoMap.xml
+D:\AspNetMvc5\maygis3\maygis3\bin\Debug\MapGIS.GeoObjects.xml
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.exe
+D:\AspNetMvc5\maygis3\maygis3\obj\x86\Debug\maygis3.pdb
+E:\MapGIS 10\Program\maygis3.exe.config
+E:\MapGIS 10\Program\maygis3.exe
+E:\MapGIS 10\Program\maygis3.pdb
